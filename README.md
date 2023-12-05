@@ -63,6 +63,3 @@ The main point of manipulation our team decided to perform on our dataset was to
 ## Tableau Packaged Workbook 
 The Tableau packaged workbook is attached to this repository. The visualizations are located on dashboards corresponding to their respective questions. 
 
-## Sources 
-
-“America.” New York City Boroughs (USA): Boroughs - Population Statistics, Charts and Map, www.citypopulation.de/en/usa/newyorkcity/#google_vignette. Accessed 5 Dec. 2023. 
