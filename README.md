@@ -24,6 +24,12 @@ Importance:
 
 The importance of understanding the variability in car collisions with respect to time and location is crucial as it directly impacts public safety, influences local governing policies, and guides city planning and development. Insight into when and where crashes most frequently occur can lead to more effective safety measures, allowing for strategic emergency response planning and better informed public safety initiatives. Preventative measures and messages can be spread to the local community to raise awareness for certain issues and this can also help to prevent future collision. For policymakers, such data is invaluable in creating more targeted and effective traffic regulations, while urban planners can leverage this knowledge to design safer roads and improve existing infrastructure. This information can be used to adjust signal timings and manage congestion more dynamically, potentially preventing accidents before they happen. Furthermore, this knowledge benefits insurance companies by refining risk assessments and contributes to raising driver awareness, encouraging safer driving practices at known high-risk times. Ultimately, the integration of these improvements can also yield environmental benefits by reducing congestion-related emissions, illustrating the why we considered this question to be of importance. 
 
+<img width="1440" alt="Screenshot 2023-12-05 at 12 28 39 AM" src="https://github.com/jw34666/MIST_4610_Project_2/assets/145144734/0d5efb61-6ce1-4f73-b02c-beb820dc37bc">
+
+Analysis: 
+
+
+The graph depicting Total Crash vs Time of Day shows that there is a peak in crashes around 5pm and a significant dip in crashes around 4am. This can align with rush hour that suggests there is a higher volume of traffic that could cause some drivers to be hurried and crash. Because the graph fluctuates, there isn’t a steady number of crashes throughout the day which is better for law enforcement so they know what times to be on the road for patrolling. Looking at the Crashes By Borough graph, we see that the trend follows the same trend as the Total Crashes vs Time of Day graph with a high peak at 4pm. The graph separates the different lines by the different boroughs( the colors and corresponding borough is on the left legend) and we can see that Brooklyn has the highest number of crashes, totaling a peak of 1000 crashes at 5pm. Further analyzing the different boroughs, we may take into consideration that the reason Brooklyn is so high could also be due to their high population as well. According to the US census, Brooklyn averages 2 million in population whereas Staten Island has only 300 thousand. So this doesn’t necessarily mean that Brooklyn has its own unique attribute that causes more crashes, but may simply be because there is a higher population which leads to more crashes. Looking at the graph that depicts Crashes vs Days of the Week, we can see that the graph is pretty steady with a slight increase in crashes on Friday. This could be attributed to travel or people going out that could cause more reckless driving. However because there is a steady trend throughout the week, weekday doesn’t seem to be a strong variable that may indicate crash numbers as much as time. 
 
 # Question 2
 
@@ -56,3 +62,7 @@ The main point of manipulation our team decided to perform on our dataset was to
 
 ## Tableau Packaged Workbook 
 The Tableau packaged workbook is attached to this repository. The visualizations are located on dashboards corresponding to their respective questions. 
+
+## Sources 
+
+“America.” New York City Boroughs (USA): Boroughs - Population Statistics, Charts and Map, www.citypopulation.de/en/usa/newyorkcity/#google_vignette. Accessed 5 Dec. 2023. 
