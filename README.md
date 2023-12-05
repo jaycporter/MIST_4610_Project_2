@@ -12,16 +12,20 @@ The breakdown of the data types is as follows:
 
 <img width="644" alt="Screenshot 2023-12-05 at 12 24 14 AM" src="https://github.com/jw34666/MIST_4610_Project_2/assets/145144734/c8017d11-40d0-4f5e-869a-8b56a7020801">
 
-## Question 1
+# Question 1
 
-# Q1: 
+## Q1: Is there an increase in crashes depending on day and time of the week? If so, is it the same across all boroughs or specific ones? From this data, what time and location would give the highest probability of getting into a crash? 
+
 
 <img width="1440" alt="Screenshot 2023-12-05 at 12 28 39 AM" src="https://github.com/jw34666/MIST_4610_Project_2/assets/145144734/4974bbf0-2ffe-4f7d-ae76-ab7e4c232dfd">
 
 
 
 
-## Question 2
+# Question 2
+
+## Q2: Of the accidents recorded, what were the leading causes? How many people were injured due to these types of accidents? Is there a correlation between a certain cause of accident and time of day?
+
 <img width="1440" alt="Screenshot 2023-12-05 at 12 28 48 AM" src="https://github.com/jw34666/MIST_4610_Project_2/assets/145144734/e0c6ec8d-c1cb-4c0b-b262-e26c2b52911b">
 
 ## Manipulations 
