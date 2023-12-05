@@ -37,6 +37,10 @@ From the data, the time and location with the highest probability of getting int
 
 # Question 2
 
+Going off of the information collected from our first question, we then wanted to consider what was the leading cause of these accidents and which causes had the biggest impact on the wider community. Understanding this would be monumental in considering what preventative action can be taken by the local government in order to educate and protect the community. Our goal was to recognize what caused the most accidents and what factors caused the most damage in terms of persons injured. From this, we also wanted to consider if there were other outlying factors that affected the listed cause of collision such as time of day. We considered these factors to be important to the community in figuring out what steps should be taken by local governments or groups to prevent the most deadly types of accident. 
+
+This prompted us to ask the question: 
+
 ## Q2: Of the accidents recorded, what were the leading causes? How many people were injured due to these types of accidents? Is there a correlation between a certain cause of accident and time of day?
 
 Importance: 
