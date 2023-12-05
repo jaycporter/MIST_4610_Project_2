@@ -11,3 +11,8 @@ This dataset was obtained through the provided website (https://catalog.data.gov
 The breakdown of the data types is as follows: 
 
 <img width="644" alt="Screenshot 2023-12-05 at 12 24 14 AM" src="https://github.com/jw34666/MIST_4610_Project_2/assets/145144734/c8017d11-40d0-4f5e-869a-8b56a7020801">
+
+## Question 1
+
+
+## Question 2
