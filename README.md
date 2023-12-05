@@ -14,13 +14,23 @@ The breakdown of the data types is as follows:
 
 # Question 1
 
-## Q1: Is there an increase in crashes depending on day and time of the week? If so, is it the same across all boroughs or specific ones? From this data, what time and location would give the highest probability of getting into a crash? 
+Motor vehicle collisions are a major public health and safety issue, with impacts ranging from personal injury and property damage to significant societal costs. Motor vehicle collisions, a significant concern in urban areas, present complex patterns influenced by various factors such as time of day, day of the week, and geographical location. The dataset provides a rich source of information to explore these nuances. We seek to understand whether the frequency and severity of these collisions increase at certain times of the day, potentially correlating with rush hours or late-night periods when driver alertness may vary. Additionally, it's crucial to investigate if the patterns of these incidents differ on weekdays compared to weekends, as traffic dynamics and driver behaviors can change between workdays and leisure days. A crucial aspect of this analysis involves discerning if these trends are consistent across different boroughs of the city or if specific areas exhibit a higher propensity for accidents, possibly due to factors like urban density, road design, or local traffic regulations. Ultimately, our goal is to identify the times and locations where the probability of getting into a crash is highest, offering insights that could be pivotal in guiding traffic management and urban planning decisions to enhance road safety.
+
+This prompts us to ask the specific question: 
+
+## Is there an increase in crashes depending on day and time of the week? If so, is it the same across all boroughs or specific ones? From this data, what time and location would give the highest probability of getting into a crash? 
 
 Importance: 
+
+The significance of understanding the variability in motor vehicle collisions with respect to time and location is multifaceted, impacting public safety, influencing policy, guiding urban development, and optimizing traffic management. Insight into when and where crashes most frequently occur can lead to more effective safety measures, allowing for strategic emergency response planning and better informed public safety initiatives. For policymakers, such data is invaluable in creating more targeted and effective traffic regulations, while urban planners can leverage this knowledge to design safer roads and improve existing infrastructure.This information can be used to adjust signal timings and manage congestion more dynamically, potentially preventing accidents before they happen. Furthermore, this knowledge benefits insurance companies by refining risk assessments and contributes to raising driver awareness, encouraging safer driving practices at known high-risk times. Ultimately, the integration of these improvements can also yield environmental benefits by reducing congestion-related emissions, illustrating the impactfulness of answering such a pivotal question.  
+
 
 <img width="1440" alt="Screenshot 2023-12-05 at 12 28 39 AM" src="https://github.com/jw34666/MIST_4610_Project_2/assets/145144734/4974bbf0-2ffe-4f7d-ae76-ab7e4c232dfd">
 
 Analysis: 
+
+The graph depicting Total Crashes vs Time of Day indicates a surge in collisions around 5 PM, aligning with the end of the workday and suggesting that rush hour traffic significantly influences crash likelihood, possibly due to increased traffic volume and hurried drivers. The Crashes by Borough graph reveals that Brooklyn, with its population of 2,590,516 as per the 2022 Census, records the highest number of crashes, which may be attributed to its dense population, more vehicles on the road due to a denser population, and potentially complex road networks. Further, the Crashes vs Days of the Week graph shows that Friday marginally leads in crash numbers, hinting that the end-of-week dynamics, such as weekend commutes or social outings, might increase traffic and impact driver focus, contributing to a rise in accidents.
+From the data, the time and location with the highest probability of getting into a crash would be around 5 PM on a Friday in Brooklyn. This time reflects the rush hour conditions, and the day signifies the end-of-week traffic patterns, both of which appear to elevate the risk of collisions. Brooklyn, as the borough with the most crashes, represents the location with the greatest probability of an accident according to the data.
 
 
 # Question 2
