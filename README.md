@@ -58,7 +58,7 @@ Lastly, we looked at the detailed graph of alcohol consumption and crashes depen
 ## Manipulations 
 The main point of manipulation our team decided to perform on our dataset was to omit data we deemed unncessary. We did this by analyzing the overall data and deciding what was most relevant and what we wanted our questions to focus around. This mostly ended up being about the causes of collisions, and the trends of specific causes throughout a 24 hour period. By understanding what we wanted to answer, we were able to manipulate our dataset into one that displayed clear conditions. Without doing this, our dataset would be much larger and would carry more unncessary information that would make the purpose of our questions more difficult to understand. 
 
-##Works Cited 
+## Works Cited 
 
 “America.” New York City Boroughs (USA): Boroughs - Population Statistics, Charts and Map, www.citypopulation.de/en/usa/newyorkcity/#google_vignette. Accessed 5 Dec. 2023. 
 
